@@ -23,9 +23,9 @@ The image classification results of FDViT models on ImageNet dataset are shown i
 
 |Model|Parameters (M)|FLOPs(G)|Top-1 Accuracy (%)|
 |-|-|-|-|
-|FDViT-Ti|4.6|0.6|73.74|
-|FDViT-S|21.6|2.8|81.45|
-|FDViT-B|68.1|11.9|82.39|
+|[FDViT-Ti](https://drive.google.com/file/d/1JTm1nJnKrQVEMF19uAKbwFqKR5wv6z4a/view?usp=sharing)|4.6|0.6|73.74|
+|[FDViT-S](https://drive.google.com/file/d/1Dmg-EB4x_ke2XxcHEnCNSuRYwGddKG0Q/view?usp=sharing)|21.6|2.8|81.45|
+|[FDViT-B](https://drive.google.com/file/d/1qhRSCeNgS_ZWXNLq2peSu7ubYBP-9Yqv/view?usp=sharing)|68.1|11.9|82.39|
 
 ## Model Evaluation
 
